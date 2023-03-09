@@ -1,4 +1,3 @@
-/* eslint-disable*/
 import React, { lazy, Suspense } from 'react'
 import { createRoot } from 'react-dom/client'
 import { MainContainer, MenuObject } from 'unit-testing-react'
